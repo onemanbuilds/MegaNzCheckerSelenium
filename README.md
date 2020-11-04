@@ -1,5 +1,11 @@
 # MegaNzCheckerSelenium
  Login to your accounts and grab your folder/file names to txt
+
+# Installation
+```
+pip3 install -r requirements.txt
+``` 
+
 # Tool
 ![](https://i.ibb.co/wygvxs9/tool.png)
 
