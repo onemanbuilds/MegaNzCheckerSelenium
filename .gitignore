@@ -124,3 +124,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 output/MegaNzCheckerSelenium.exe
+output/chromedriver.exe
+output/combos.txt
+output/proxies.txt
