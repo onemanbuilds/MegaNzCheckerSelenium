@@ -8,6 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from time import sleep
 from concurrent.futures import ThreadPoolExecutor
+from random import choice
 import os
 
 class Main:
