@@ -127,3 +127,10 @@ output/MegaNzCheckerSelenium.exe
 output/chromedriver.exe
 output/combos.txt
 output/proxies.txt
+bads.txt
+MegaNzCheckerSelenium/chromedriver.exe
+MegaNzCheckerSelenium/ChromeKiller.exe
+MegaNzCheckerSelenium/combos.txt
+MegaNzCheckerSelenium/proxies.txt
+MegaNzCheckerSelenium/MegaNzCheckerSelenium.exe
+MegaNzCheckerSelenium/useragents.txt
