@@ -10,7 +10,7 @@ pip3 install -r requirements.txt
  use_proxy (0 - Proxyless | 1 - Proxy).<br/>
  proxy_type (1 - HTTPS | 2 - SOCKS4 | 3 - SOCKS5).<br/>
  headless (0 - Show what the tool really does | 1 - Hide chrome instances)<br/>
- save_files_list (Save the list of files on the account).<br/>
+ save_files_list (0 - Just check the account | 1 - Save the list of files on the account).<br/>
  files_load_max_wait (Max waiting time in seconds for the files to load).<br/>
  website_load_max_wait (Max waiting time in seconds for the website to load before retry).<br/>
  login_check_max_wait (Max waiting time in seconds for the tool to check if an account is valid or not).<br/>
